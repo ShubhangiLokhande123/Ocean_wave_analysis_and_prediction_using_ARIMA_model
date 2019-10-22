@@ -1,4 +1,4 @@
-# wave_analysis_and_prediction_using_ARIMA_model
+# Ocean_wave_analysis_and_prediction_using_ARIMA_model
 **DESIGN AND ANALYSIS OF ADVANCED UNDERWATER WIRELESS OPTICAL COMMUNICATION FOR OCEANOGRAPHIC APPLICATION**
 
 We use wave monitoring buoys to continuously measure wave height, wave direction and wave period.
